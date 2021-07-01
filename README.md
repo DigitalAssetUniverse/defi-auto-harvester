@@ -7,4 +7,6 @@
 
 
 NOTE: DO nnot run the BOT and do transaction through metamask, the nonce will get screwed up.
+
+
 Donations can be sent to 0x0b9CEE6eA0b73675C1977Bae0691B5Af573bA72a
